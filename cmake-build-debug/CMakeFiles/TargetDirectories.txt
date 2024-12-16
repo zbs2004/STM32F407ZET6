@@ -1,0 +1,3 @@
+C:/Users/zbs20/Documents/Tencent Files/793262016/FileRecv/SEG/SEG/project/cmake-build-debug/CMakeFiles/project.elf.dir
+C:/Users/zbs20/Documents/Tencent Files/793262016/FileRecv/SEG/SEG/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zbs20/Documents/Tencent Files/793262016/FileRecv/SEG/SEG/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
